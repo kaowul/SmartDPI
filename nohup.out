@@ -1,0 +1,359 @@
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=484
+num=23
+  1: Rssi=-19,channel=8,type=0,age=5009 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-43,channel=11,type=0,age=6707 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-65,channel=6,type=0,age=10647 mac=14:F6:5A:AE:4E:82->00:00:00:00:00:00
+  4: Rssi=-85,channel=8,type=0,age=25803 mac=68:DF:DD:C5:50:45->00:00:00:00:00:00
+  5: Rssi=-85,channel=8,type=0,age=4777 mac=B4:0B:44:10:80:AB->00:00:00:00:00:00
+  6: Rssi=-89,channel=6,type=0,age=20 mac=C4:07:2F:24:42:43->D4:6E:5C:7B:96:28
+  7: Rssi=-85,channel=4,type=0,age=16189 mac=24:E3:14:1B:9B:B6->00:00:00:00:00:00
+  8: Rssi=-83,channel=1,type=0,age=13511 mac=A8:A6:68:1D:66:E6->00:00:00:00:00:00
+  9: Rssi=-29,channel=12,type=0,age=14501 mac=74:51:BA:A5:DC:BA->00:00:00:00:00:00
+ 10: Rssi=-83,channel=8,type=0,age=25259 mac=34:23:BA:07:04:60->00:00:00:00:00:00
+ 11: Rssi=-87,channel=9,type=0,age=22267 mac=70:18:8B:09:39:F3->00:1A:1E:CB:23:A0
+ 12: Rssi=-43,channel=6,type=0,age=10676 mac=60:F8:1D:15:C8:50->00:00:00:00:00:00
+ 13: Rssi=-83,channel=1,type=0,age=3099 mac=34:23:BA:1D:66:4E->00:0F:E2:EE:0D:E0
+ 14: Rssi=-79,channel=12,type=0,age=4751 mac=B4:30:52:D1:3A:53->00:00:00:00:00:00
+ 15: Rssi=-47,channel=10,type=0,age=19723 mac=52:E2:EC:3D:C4:8E->00:00:00:00:00:00
+ 16: Rssi=-85,channel=8,type=0,age=14986 mac=F4:B7:E2:22:6C:68->00:00:00:00:00:00
+ 17: Rssi=-65,channel=6,type=0,age=10236 mac=44:D4:E0:56:F4:88->00:00:00:00:00:00
+ 18: Rssi=-77,channel=10,type=0,age=9561 mac=A0:88:B4:76:46:FC->00:00:00:00:00:00
+ 19: Rssi=-81,channel=2,type=0,age=1277 mac=00:23:89:B1:97:FE->00:1A:1E:CB:25:00
+ 20: Rssi=-47,channel=11,type=0,age=6600 mac=64:09:80:CB:B8:73->00:00:00:00:00:00
+ 21: Rssi=-19,channel=8,type=0,age=4993 mac=DE:1C:B8:79:82:FF->00:00:00:00:00:00
+ 22: Rssi=-81,channel=9,type=0,age=1582 mac=80:9B:20:0F:11:C0->00:00:00:00:00:00
+ 23: Rssi=-67,channel=2,type=0,age=901 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+************************************
+
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=544
+num=26
+  1: Rssi=-45,channel=1,type=0,age=3280 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-41,channel=11,type=0,age=6697 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-83,channel=10,type=0,age=9110 mac=14:F6:5A:AE:4E:82->00:00:00:00:00:00
+  4: Rssi=-85,channel=8,type=0,age=14792 mac=B4:0B:44:10:80:AB->00:00:00:00:00:00
+  5: Rssi=-47,channel=10,type=0,age=9036 mac=C4:07:2F:24:42:43->D4:6E:5C:7B:96:28
+  6: Rssi=-85,channel=4,type=0,age=26204 mac=24:E3:14:1B:9B:B6->00:00:00:00:00:00
+  7: Rssi=-83,channel=1,type=0,age=23526 mac=A8:A6:68:1D:66:E6->00:00:00:00:00:00
+  8: Rssi=-29,channel=12,type=0,age=24516 mac=74:51:BA:A5:DC:BA->00:00:00:00:00:00
+  9: Rssi=-43,channel=6,type=0,age=20691 mac=60:F8:1D:15:C8:50->00:00:00:00:00:00
+ 10: Rssi=-83,channel=1,type=0,age=13114 mac=34:23:BA:1D:66:4E->00:0F:E2:EE:0D:E0
+ 11: Rssi=-79,channel=12,type=0,age=14766 mac=B4:30:52:D1:3A:53->00:00:00:00:00:00
+ 12: Rssi=-47,channel=10,type=0,age=29738 mac=52:E2:EC:3D:C4:8E->00:00:00:00:00:00
+ 13: Rssi=-85,channel=8,type=0,age=25001 mac=F4:B7:E2:22:6C:68->00:00:00:00:00:00
+ 14: Rssi=-57,channel=5,type=0,age=2761 mac=44:D4:E0:56:F4:88->00:00:00:00:00:00
+ 15: Rssi=-77,channel=10,type=0,age=19576 mac=A0:88:B4:76:46:FC->00:00:00:00:00:00
+ 16: Rssi=-81,channel=2,type=0,age=11292 mac=00:23:89:B1:97:FE->00:1A:1E:CB:25:00
+ 17: Rssi=-47,channel=11,type=0,age=16615 mac=64:09:80:CB:B8:73->00:00:00:00:00:00
+ 18: Rssi=-19,channel=8,type=0,age=15008 mac=DE:1C:B8:79:82:FF->00:00:00:00:00:00
+ 19: Rssi=-81,channel=9,type=0,age=11597 mac=80:9B:20:0F:11:C0->00:00:00:00:00:00
+ 20: Rssi=-67,channel=2,type=0,age=10916 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+ 21: Rssi=-55,channel=7,type=0,age=7250 mac=30:F7:C5:49:FA:00->00:00:00:00:00:00
+ 22: Rssi=-77,channel=1,type=0,age=3219 mac=DC:37:14:0A:67:CD->00:00:00:00:00:00
+ 23: Rssi=-87,channel=7,type=0,age=7179 mac=A8:A6:68:F4:5A:47->0C:82:68:F5:5D:A6
+ 24: Rssi=-45,channel=11,type=0,age=6904 mac=00:23:89:B1:97:FE->00:1A:1E:CB:22:E0
+ 25: Rssi=-29,channel=11,type=0,age=6628 mac=80:71:7A:19:3B:F7->00:00:00:00:00:00
+ 26: Rssi=-81,channel=2,type=0,age=1139 mac=90:18:7C:F8:99:DF->00:1A:1E:CB:25:00
+************************************
+
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=584
+num=28
+  1: Rssi=-45,channel=1,type=0,age=13295 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-41,channel=11,type=0,age=16712 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-81,channel=5,type=0,age=2251 mac=14:F6:5A:AE:4E:82->00:00:00:00:00:00
+  4: Rssi=-87,channel=8,type=0,age=4527 mac=B4:0B:44:10:80:AB->00:00:00:00:00:00
+  5: Rssi=-47,channel=10,type=0,age=19051 mac=C4:07:2F:24:42:43->D4:6E:5C:7B:96:28
+  6: Rssi=-83,channel=2,type=0,age=733 mac=34:23:BA:1D:66:4E->86:74:2A:B6:E7:B6
+  7: Rssi=-79,channel=12,type=0,age=24781 mac=B4:30:52:D1:3A:53->00:00:00:00:00:00
+  8: Rssi=-57,channel=5,type=0,age=12776 mac=44:D4:E0:56:F4:88->00:00:00:00:00:00
+  9: Rssi=-77,channel=10,type=0,age=29591 mac=A0:88:B4:76:46:FC->00:00:00:00:00:00
+ 10: Rssi=-81,channel=2,type=0,age=21307 mac=00:23:89:B1:97:FE->00:1A:1E:CB:25:00
+ 11: Rssi=-47,channel=11,type=0,age=26630 mac=64:09:80:CB:B8:73->00:00:00:00:00:00
+ 12: Rssi=-19,channel=8,type=0,age=25023 mac=DE:1C:B8:79:82:FF->00:00:00:00:00:00
+ 13: Rssi=-81,channel=9,type=0,age=21612 mac=80:9B:20:0F:11:C0->00:00:00:00:00:00
+ 14: Rssi=-55,channel=6,type=0,age=9646 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+ 15: Rssi=-55,channel=7,type=0,age=17265 mac=30:F7:C5:49:FA:00->00:00:00:00:00:00
+ 16: Rssi=-77,channel=1,type=0,age=13234 mac=DC:37:14:0A:67:CD->00:00:00:00:00:00
+ 17: Rssi=-87,channel=7,type=0,age=17194 mac=A8:A6:68:F4:5A:47->0C:82:68:F5:5D:A6
+ 18: Rssi=-45,channel=11,type=0,age=16919 mac=00:23:89:B1:97:FE->00:1A:1E:CB:22:E0
+ 19: Rssi=-89,channel=9,type=0,age=1231 mac=80:71:7A:19:3B:F7->00:00:00:00:00:00
+ 20: Rssi=-81,channel=2,type=0,age=11154 mac=90:18:7C:F8:99:DF->00:1A:1E:CB:25:00
+ 21: Rssi=-85,channel=6,type=0,age=9601 mac=00:17:C4:EC:55:C3->00:00:00:00:00:00
+ 22: Rssi=-55,channel=6,type=0,age=9518 mac=60:67:20:AD:FB:98->00:00:00:00:00:00
+ 23: Rssi=-85,channel=8,type=0,age=5066 mac=C8:33:4B:3C:F2:89->00:00:00:00:00:00
+ 24: Rssi=-87,channel=8,type=0,age=4842 mac=74:51:BA:AB:64:01->00:00:00:00:00:00
+ 25: Rssi=-55,channel=5,type=0,age=2517 mac=00:16:6A:3F:ED:FA->00:00:00:00:00:00
+ 26: Rssi=-79,channel=1,type=0,age=2897 mac=AA:D8:D0:44:44:BB->00:00:00:00:00:00
+ 27: Rssi=-55,channel=6,type=0,age=118 mac=80:9B:20:0F:03:E9->00:00:00:00:00:00
+ 28: Rssi=-79,channel=2,type=0,age=158 mac=8A:83:0B:EB:D1:23->00:00:00:00:00:00
+************************************
+
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=684
+num=33
+  1: Rssi=-43,channel=1,type=0,age=2879 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-43,channel=11,type=0,age=6017 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-81,channel=5,type=0,age=12266 mac=14:F6:5A:AE:4E:82->00:00:00:00:00:00
+  4: Rssi=-87,channel=8,type=0,age=14542 mac=B4:0B:44:10:80:AB->00:00:00:00:00:00
+  5: Rssi=-47,channel=10,type=0,age=29066 mac=C4:07:2F:24:42:43->D4:6E:5C:7B:96:28
+  6: Rssi=-89,channel=1,type=0,age=3079 mac=34:23:BA:1D:66:4E->86:74:2A:B6:E7:B6
+  7: Rssi=-57,channel=5,type=0,age=22791 mac=44:D4:E0:56:F4:88->00:00:00:00:00:00
+  8: Rssi=-55,channel=6,type=0,age=19661 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+  9: Rssi=-55,channel=7,type=0,age=27280 mac=30:F7:C5:49:FA:00->00:00:00:00:00:00
+ 10: Rssi=-77,channel=1,type=0,age=23249 mac=DC:37:14:0A:67:CD->00:00:00:00:00:00
+ 11: Rssi=-87,channel=7,type=0,age=27209 mac=A8:A6:68:F4:5A:47->0C:82:68:F5:5D:A6
+ 12: Rssi=-47,channel=11,type=0,age=6224 mac=00:23:89:B1:97:FE->00:1A:1E:CB:22:E0
+ 13: Rssi=-89,channel=9,type=0,age=11246 mac=80:71:7A:19:3B:F7->00:00:00:00:00:00
+ 14: Rssi=-81,channel=2,type=0,age=21169 mac=90:18:7C:F8:99:DF->00:1A:1E:CB:25:00
+ 15: Rssi=-85,channel=6,type=0,age=19616 mac=00:17:C4:EC:55:C3->00:00:00:00:00:00
+ 16: Rssi=-55,channel=6,type=0,age=19533 mac=60:67:20:AD:FB:98->00:00:00:00:00:00
+ 17: Rssi=-85,channel=8,type=0,age=15081 mac=C8:33:4B:3C:F2:89->00:00:00:00:00:00
+ 18: Rssi=-87,channel=8,type=0,age=14857 mac=74:51:BA:AB:64:01->00:00:00:00:00:00
+ 19: Rssi=-55,channel=5,type=0,age=12532 mac=00:16:6A:3F:ED:FA->00:00:00:00:00:00
+ 20: Rssi=-79,channel=1,type=0,age=12912 mac=AA:D8:D0:44:44:BB->00:00:00:00:00:00
+ 21: Rssi=-55,channel=6,type=0,age=10133 mac=80:9B:20:0F:03:E9->00:00:00:00:00:00
+ 22: Rssi=-79,channel=2,type=0,age=10173 mac=8A:83:0B:EB:D1:23->00:00:00:00:00:00
+ 23: Rssi=-55,channel=6,type=0,age=9387 mac=E8:99:C4:9B:F7:06->00:00:00:00:00:00
+ 24: Rssi=-81,channel=11,type=0,age=6535 mac=A0:E4:53:66:3D:45->00:00:00:00:00:00
+ 25: Rssi=-47,channel=7,type=0,age=7359 mac=80:BE:05:4B:D2:A1->00:00:00:00:00:00
+ 26: Rssi=-49,channel=2,type=0,age=696 mac=BC:79:AD:C6:A8:0B->00:00:00:00:00:00
+ 27: Rssi=-45,channel=11,type=0,age=6583 mac=90:3C:92:1E:81:7A->00:00:00:00:00:00
+ 28: Rssi=-29,channel=11,type=0,age=6138 mac=E4:EC:10:C3:81:11->00:00:00:00:00:00
+ 29: Rssi=-41,channel=11,type=0,age=5978 mac=68:DF:DD:C5:50:45->00:00:00:00:00:00
+ 30: Rssi=-81,channel=4,type=0,age=5688 mac=C4:17:FE:BA:F3:EF->00:00:00:00:00:00
+ 31: Rssi=-83,channel=4,type=0,age=5117 mac=B4:43:0D:11:1C:3B->D4:EE:07:10:80:14
+ 32: Rssi=-85,channel=1,type=0,age=2789 mac=70:18:8B:09:70:6F->00:00:00:00:00:00
+ 33: Rssi=-91,channel=1,type=0,age=2916 mac=02:66:99:65:3E:C2->00:00:00:00:00:00
+************************************
+
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=724
+num=35
+  1: Rssi=-55,channel=2,type=0,age=565 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-45,channel=11,type=0,age=5860 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-87,channel=8,type=0,age=4494 mac=14:F6:5A:AE:4E:82->00:00:00:00:00:00
+  4: Rssi=-87,channel=8,type=0,age=24557 mac=B4:0B:44:10:80:AB->00:00:00:00:00:00
+  5: Rssi=-55,channel=2,type=0,age=8 mac=C4:07:2F:24:42:43->D4:6E:5C:7B:96:28
+  6: Rssi=-89,channel=1,type=0,age=13094 mac=34:23:BA:1D:66:4E->86:74:2A:B6:E7:B6
+  7: Rssi=-55,channel=6,type=0,age=29676 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+  8: Rssi=-89,channel=7,type=0,age=6953 mac=A8:A6:68:F4:5A:47->0C:82:68:F5:5D:A6
+  9: Rssi=-47,channel=11,type=0,age=16239 mac=00:23:89:B1:97:FE->00:1A:1E:CB:22:E0
+ 10: Rssi=-89,channel=9,type=0,age=21261 mac=80:71:7A:19:3B:F7->00:00:00:00:00:00
+ 11: Rssi=-85,channel=6,type=0,age=29631 mac=00:17:C4:EC:55:C3->00:00:00:00:00:00
+ 12: Rssi=-55,channel=6,type=0,age=29548 mac=60:67:20:AD:FB:98->00:00:00:00:00:00
+ 13: Rssi=-85,channel=8,type=0,age=25096 mac=C8:33:4B:3C:F2:89->00:00:00:00:00:00
+ 14: Rssi=-87,channel=8,type=0,age=24872 mac=74:51:BA:AB:64:01->00:00:00:00:00:00
+ 15: Rssi=-55,channel=5,type=0,age=22547 mac=00:16:6A:3F:ED:FA->00:00:00:00:00:00
+ 16: Rssi=-79,channel=1,type=0,age=22927 mac=AA:D8:D0:44:44:BB->00:00:00:00:00:00
+ 17: Rssi=-55,channel=6,type=0,age=20148 mac=80:9B:20:0F:03:E9->00:00:00:00:00:00
+ 18: Rssi=-79,channel=2,type=0,age=20188 mac=8A:83:0B:EB:D1:23->00:00:00:00:00:00
+ 19: Rssi=-65,channel=6,type=0,age=9151 mac=E8:99:C4:9B:F7:06->00:00:00:00:00:00
+ 20: Rssi=-81,channel=11,type=0,age=16550 mac=A0:E4:53:66:3D:45->00:00:00:00:00:00
+ 21: Rssi=-47,channel=7,type=0,age=17374 mac=80:BE:05:4B:D2:A1->00:00:00:00:00:00
+ 22: Rssi=-49,channel=2,type=0,age=10711 mac=BC:79:AD:C6:A8:0B->00:00:00:00:00:00
+ 23: Rssi=-45,channel=11,type=0,age=16598 mac=90:3C:92:1E:81:7A->00:00:00:00:00:00
+ 24: Rssi=-29,channel=11,type=0,age=16153 mac=E4:EC:10:C3:81:11->00:00:00:00:00:00
+ 25: Rssi=-83,channel=11,type=0,age=5710 mac=68:DF:DD:C5:50:45->00:00:00:00:00:00
+ 26: Rssi=-81,channel=4,type=0,age=15703 mac=C4:17:FE:BA:F3:EF->00:00:00:00:00:00
+ 27: Rssi=-83,channel=4,type=0,age=15132 mac=B4:43:0D:11:1C:3B->D4:EE:07:10:80:14
+ 28: Rssi=-85,channel=1,type=0,age=12804 mac=70:18:8B:09:70:6F->00:00:00:00:00:00
+ 29: Rssi=-91,channel=1,type=0,age=12931 mac=02:66:99:65:3E:C2->00:00:00:00:00:00
+ 30: Rssi=-75,channel=10,type=0,age=8456 mac=5C:95:AE:7E:A5:E5->00:00:00:00:00:00
+ 31: Rssi=-57,channel=7,type=0,age=7351 mac=60:FA:CD:37:61:DC->00:00:00:00:00:00
+ 32: Rssi=-81,channel=11,type=0,age=6393 mac=60:FA:CD:0F:9A:07->00:00:00:00:00:00
+ 33: Rssi=-47,channel=11,type=0,age=5832 mac=00:23:89:B1:97:FE->00:1A:1E:CB:22:E0
+ 34: Rssi=-55,channel=5,type=0,age=2172 mac=80:9B:20:0F:03:E1->00:00:00:00:00:00
+ 35: Rssi=-85,channel=5,type=0,age=1473 mac=26:44:2C:D2:37:DC->00:00:00:00:00:00
+************************************
+
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=764
+num=37
+  1: Rssi=-55,channel=2,type=0,age=10580 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-45,channel=11,type=0,age=15875 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-87,channel=8,type=0,age=14509 mac=14:F6:5A:AE:4E:82->00:00:00:00:00:00
+  4: Rssi=-89,channel=2,type=0,age=290 mac=C4:07:2F:24:42:43->D4:6E:5C:7B:96:28
+  5: Rssi=-89,channel=1,type=0,age=23109 mac=34:23:BA:1D:66:4E->86:74:2A:B6:E7:B6
+  6: Rssi=-49,channel=11,type=0,age=6125 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+  7: Rssi=-89,channel=7,type=0,age=16968 mac=A8:A6:68:F4:5A:47->0C:82:68:F5:5D:A6
+  8: Rssi=-47,channel=11,type=0,age=26254 mac=00:23:89:B1:97:FE->00:1A:1E:CB:22:E0
+  9: Rssi=-55,channel=2,type=0,age=373 mac=80:71:7A:19:3B:F7->00:00:00:00:00:00
+ 10: Rssi=-87,channel=9,type=0,age=992 mac=00:16:6A:3F:ED:FA->00:00:00:00:00:00
+ 11: Rssi=-65,channel=6,type=0,age=9156 mac=E8:99:C4:9B:F7:06->00:00:00:00:00:00
+ 12: Rssi=-81,channel=11,type=0,age=26565 mac=A0:E4:53:66:3D:45->00:00:00:00:00:00
+ 13: Rssi=-47,channel=7,type=0,age=27389 mac=80:BE:05:4B:D2:A1->00:00:00:00:00:00
+ 14: Rssi=-49,channel=2,type=0,age=20726 mac=BC:79:AD:C6:A8:0B->00:00:00:00:00:00
+ 15: Rssi=-45,channel=11,type=0,age=26613 mac=90:3C:92:1E:81:7A->00:00:00:00:00:00
+ 16: Rssi=-29,channel=11,type=0,age=26168 mac=E4:EC:10:C3:81:11->00:00:00:00:00:00
+ 17: Rssi=-81,channel=11,type=0,age=5810 mac=68:DF:DD:C5:50:45->00:00:00:00:00:00
+ 18: Rssi=-81,channel=4,type=0,age=25718 mac=C4:17:FE:BA:F3:EF->00:00:00:00:00:00
+ 19: Rssi=-81,channel=4,type=0,age=5209 mac=B4:43:0D:11:1C:3B->D4:EE:07:10:80:14
+ 20: Rssi=-85,channel=1,type=0,age=22819 mac=70:18:8B:09:70:6F->00:00:00:00:00:00
+ 21: Rssi=-91,channel=1,type=0,age=22946 mac=02:66:99:65:3E:C2->00:00:00:00:00:00
+ 22: Rssi=-75,channel=10,type=0,age=18471 mac=5C:95:AE:7E:A5:E5->00:00:00:00:00:00
+ 23: Rssi=-57,channel=7,type=0,age=17366 mac=60:FA:CD:37:61:DC->00:00:00:00:00:00
+ 24: Rssi=-81,channel=11,type=0,age=5536 mac=60:FA:CD:0F:9A:07->00:00:00:00:00:00
+ 25: Rssi=-81,channel=2,type=0,age=353 mac=00:23:89:B1:97:FE->00:1A:1E:CB:25:00
+ 26: Rssi=-55,channel=5,type=0,age=12187 mac=80:9B:20:0F:03:E1->00:00:00:00:00:00
+ 27: Rssi=-85,channel=5,type=0,age=11488 mac=26:44:2C:D2:37:DC->00:00:00:00:00:00
+ 28: Rssi=-45,channel=6,type=0,age=9374 mac=88:32:9B:BD:82:1F->00:00:00:00:00:00
+ 29: Rssi=-91,channel=6,type=0,age=9470 mac=18:59:36:10:C2:09->00:00:00:00:00:00
+ 30: Rssi=-87,channel=6,type=0,age=8980 mac=FF:FF:FF:FF:FF:FF->00:00:00:00:00:00
+ 31: Rssi=-83,channel=10,type=0,age=8834 mac=AC:F7:F3:CD:05:07->00:00:00:00:00:00
+ 32: Rssi=-83,channel=7,type=0,age=6647 mac=68:94:23:9B:7B:01->00:00:00:00:00:00
+ 33: Rssi=-81,channel=11,type=0,age=6033 mac=2C:BE:08:17:22:8C->00:00:00:00:00:00
+ 34: Rssi=-79,channel=4,type=0,age=5311 mac=84:DB:AC:15:5B:0D->00:00:00:00:00:00
+ 35: Rssi=-83,channel=8,type=0,age=4239 mac=48:43:7C:AA:00:8F->00:00:00:00:00:00
+ 36: Rssi=-85,channel=12,type=0,age=3785 mac=F0:DB:E2:72:E2:63->00:00:00:00:00:00
+ 37: Rssi=-55,channel=5,type=0,age=1412 mac=00:95:69:19:2D:8C->00:00:00:00:00:00
+************************************
+
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=784
+num=38
+  1: Rssi=-35,channel=6,type=0,age=8782 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-45,channel=11,type=0,age=25890 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-87,channel=8,type=0,age=24524 mac=14:F6:5A:AE:4E:82->00:00:00:00:00:00
+  4: Rssi=-87,channel=6,type=0,age=8837 mac=C4:07:2F:24:42:43->D4:6E:5C:70:5F:C4
+  5: Rssi=-83,channel=1,type=0,age=2322 mac=34:23:BA:1D:66:4E->00:0F:E2:EE:0D:E0
+  6: Rssi=-47,channel=11,type=0,age=5668 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+  7: Rssi=-89,channel=7,type=0,age=26983 mac=A8:A6:68:F4:5A:47->0C:82:68:F5:5D:A6
+  8: Rssi=-55,channel=2,type=0,age=10388 mac=80:71:7A:19:3B:F7->00:00:00:00:00:00
+  9: Rssi=-87,channel=9,type=0,age=11007 mac=00:16:6A:3F:ED:FA->00:00:00:00:00:00
+ 10: Rssi=-89,channel=6,type=0,age=9448 mac=E8:99:C4:9B:F7:06->00:00:00:00:00:00
+ 11: Rssi=-81,channel=11,type=0,age=15825 mac=68:DF:DD:C5:50:45->00:00:00:00:00:00
+ 12: Rssi=-81,channel=4,type=0,age=15224 mac=B4:43:0D:11:1C:3B->D4:EE:07:10:80:14
+ 13: Rssi=-75,channel=10,type=0,age=28486 mac=5C:95:AE:7E:A5:E5->00:00:00:00:00:00
+ 14: Rssi=-57,channel=7,type=0,age=27381 mac=60:FA:CD:37:61:DC->00:00:00:00:00:00
+ 15: Rssi=-81,channel=11,type=0,age=15551 mac=60:FA:CD:0F:9A:07->00:00:00:00:00:00
+ 16: Rssi=-81,channel=2,type=0,age=10368 mac=00:23:89:B1:97:FE->00:1A:1E:CB:25:00
+ 17: Rssi=-55,channel=5,type=0,age=22202 mac=80:9B:20:0F:03:E1->00:00:00:00:00:00
+ 18: Rssi=-85,channel=5,type=0,age=21503 mac=26:44:2C:D2:37:DC->00:00:00:00:00:00
+ 19: Rssi=-45,channel=6,type=0,age=19389 mac=88:32:9B:BD:82:1F->00:00:00:00:00:00
+ 20: Rssi=-91,channel=6,type=0,age=19485 mac=18:59:36:10:C2:09->00:00:00:00:00:00
+ 21: Rssi=-87,channel=6,type=0,age=18995 mac=FF:FF:FF:FF:FF:FF->00:00:00:00:00:00
+ 22: Rssi=-81,channel=12,type=0,age=3402 mac=AC:F7:F3:CD:05:07->00:00:00:00:00:00
+ 23: Rssi=-83,channel=7,type=0,age=16662 mac=68:94:23:9B:7B:01->00:00:00:00:00:00
+ 24: Rssi=-81,channel=11,type=0,age=16048 mac=2C:BE:08:17:22:8C->00:00:00:00:00:00
+ 25: Rssi=-79,channel=4,type=0,age=15326 mac=84:DB:AC:15:5B:0D->00:00:00:00:00:00
+ 26: Rssi=-83,channel=8,type=0,age=14254 mac=48:43:7C:AA:00:8F->00:00:00:00:00:00
+ 27: Rssi=-85,channel=12,type=0,age=13800 mac=F0:DB:E2:72:E2:63->00:00:00:00:00:00
+ 28: Rssi=-77,channel=8,type=0,age=4283 mac=00:95:69:19:2D:8C->00:00:00:00:00:00
+ 29: Rssi=-71,channel=6,type=0,age=8957 mac=14:36:C6:DC:F8:D4->00:00:00:00:00:00
+ 30: Rssi=-75,channel=10,type=0,age=7934 mac=80:BE:05:2C:EB:64->00:00:00:00:00:00
+ 31: Rssi=-53,channel=7,type=0,age=6854 mac=20:08:ED:EE:3B:93->00:00:00:00:00:00
+ 32: Rssi=-47,channel=7,type=0,age=6492 mac=54:9F:13:92:C0:EB->00:00:00:00:00:00
+ 33: Rssi=-47,channel=11,type=0,age=5688 mac=80:E6:50:92:C9:35->00:00:00:00:00:00
+ 34: Rssi=-85,channel=1,type=0,age=2303 mac=68:DF:DD:A8:B1:03->00:0F:E2:EE:0D:E3
+ 35: Rssi=-83,channel=1,type=0,age=2372 mac=00:0F:E2:EE:0D:E0->34:23:BA:1D:66:4E
+ 36: Rssi=-75,channel=1,type=0,age=2250 mac=64:09:80:FA:D0:9B->00:00:00:00:00:00
+ 37: Rssi=-75,channel=1,type=0,age=1971 mac=8C:00:6D:A8:13:28->00:00:00:00:00:00
+ 38: Rssi=-81,channel=5,type=0,age=1293 mac=F0:24:75:71:B8:54->00:00:00:00:00:00
+************************************
+
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=864
+num=42
+  1: Rssi=-25,channel=3,type=0,age=7435 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-43,channel=11,type=0,age=5274 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-81,channel=6,type=0,age=8620 mac=C4:07:2F:24:42:43->D4:6E:5C:70:5F:C4
+  4: Rssi=-87,channel=1,type=0,age=1941 mac=34:23:BA:1D:66:4E->00:0F:E2:EE:0D:E0
+  5: Rssi=-29,channel=11,type=0,age=5162 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+  6: Rssi=-17,channel=4,type=0,age=4915 mac=80:71:7A:19:3B:F7->00:00:00:00:00:00
+  7: Rssi=-57,channel=11,type=0,age=5276 mac=00:16:6A:3F:ED:FA->00:00:00:00:00:00
+  8: Rssi=-89,channel=6,type=0,age=19463 mac=E8:99:C4:9B:F7:06->00:00:00:00:00:00
+  9: Rssi=-81,channel=11,type=0,age=25840 mac=68:DF:DD:C5:50:45->00:00:00:00:00:00
+ 10: Rssi=-81,channel=4,type=0,age=25239 mac=B4:43:0D:11:1C:3B->D4:EE:07:10:80:14
+ 11: Rssi=-81,channel=11,type=0,age=25566 mac=60:FA:CD:0F:9A:07->00:00:00:00:00:00
+ 12: Rssi=-81,channel=2,type=0,age=20383 mac=00:23:89:B1:97:FE->00:1A:1E:CB:25:00
+ 13: Rssi=-45,channel=6,type=0,age=29404 mac=88:32:9B:BD:82:1F->00:00:00:00:00:00
+ 14: Rssi=-91,channel=6,type=0,age=29500 mac=18:59:36:10:C2:09->00:00:00:00:00:00
+ 15: Rssi=-87,channel=6,type=0,age=29010 mac=FF:FF:FF:FF:FF:FF->00:00:00:00:00:00
+ 16: Rssi=-81,channel=12,type=0,age=13417 mac=AC:F7:F3:CD:05:07->00:00:00:00:00:00
+ 17: Rssi=-83,channel=7,type=0,age=26677 mac=68:94:23:9B:7B:01->00:00:00:00:00:00
+ 18: Rssi=-81,channel=11,type=0,age=26063 mac=2C:BE:08:17:22:8C->00:00:00:00:00:00
+ 19: Rssi=-79,channel=4,type=0,age=25341 mac=84:DB:AC:15:5B:0D->00:00:00:00:00:00
+ 20: Rssi=-83,channel=8,type=0,age=24269 mac=48:43:7C:AA:00:8F->00:00:00:00:00:00
+ 21: Rssi=-85,channel=12,type=0,age=23815 mac=F0:DB:E2:72:E2:63->00:00:00:00:00:00
+ 22: Rssi=-77,channel=8,type=0,age=14298 mac=00:95:69:19:2D:8C->00:00:00:00:00:00
+ 23: Rssi=-71,channel=6,type=0,age=18972 mac=14:36:C6:DC:F8:D4->00:00:00:00:00:00
+ 24: Rssi=-75,channel=10,type=0,age=17949 mac=80:BE:05:2C:EB:64->00:00:00:00:00:00
+ 25: Rssi=-53,channel=7,type=0,age=16869 mac=20:08:ED:EE:3B:93->00:00:00:00:00:00
+ 26: Rssi=-47,channel=7,type=0,age=16507 mac=54:9F:13:92:C0:EB->00:00:00:00:00:00
+ 27: Rssi=-47,channel=11,type=0,age=15703 mac=80:E6:50:92:C9:35->00:00:00:00:00:00
+ 28: Rssi=-91,channel=1,type=0,age=2387 mac=68:DF:DD:A8:B1:03->00:0F:E2:EE:0D:E3
+ 29: Rssi=-83,channel=1,type=0,age=12387 mac=00:0F:E2:EE:0D:E0->34:23:BA:1D:66:4E
+ 30: Rssi=-75,channel=1,type=0,age=12265 mac=64:09:80:FA:D0:9B->00:00:00:00:00:00
+ 31: Rssi=-75,channel=1,type=0,age=11986 mac=8C:00:6D:A8:13:28->00:00:00:00:00:00
+ 32: Rssi=-81,channel=5,type=0,age=11308 mac=F0:24:75:71:B8:54->00:00:00:00:00:00
+ 33: Rssi=-79,channel=2,type=0,age=9521 mac=A0:88:B4:76:46:FC->00:00:00:00:00:00
+ 34: Rssi=-81,channel=12,type=0,age=3179 mac=A0:E4:53:66:3D:45->00:00:00:00:00:00
+ 35: Rssi=-55,channel=6,type=0,age=8921 mac=5C:0A:5B:FB:92:96->00:00:00:00:00:00
+ 36: Rssi=-81,channel=6,type=0,age=8770 mac=84:DB:AC:84:68:B9->D4:6E:5C:70:5F:C4
+ 37: Rssi=-77,channel=10,type=0,age=7732 mac=CC:07:E4:91:FD:47->00:00:00:00:00:00
+ 38: Rssi=-55,channel=7,type=0,age=6701 mac=80:9B:20:0F:11:C0->00:00:00:00:00:00
+ 39: Rssi=-55,channel=7,type=0,age=6038 mac=A8:5B:78:A5:6C:71->00:00:00:00:00:00
+ 40: Rssi=-81,channel=1,type=0,age=2459 mac=9C:2A:70:71:30:E2->00:00:00:00:00:00
+ 41: Rssi=-87,channel=1,type=0,age=1823 mac=70:18:8B:09:39:F3->00:1A:1E:CB:23:A0
+ 42: Rssi=-83,channel=5,type=0,age=1327 mac=44:D4:E0:56:F4:88->00:00:00:00:00:00
+************************************
+
+
+
+************************************
+ap_mac=80:81:10:B8:C0:E6
+len=704
+num=34
+  1: Rssi=-71,channel=11,type=0,age=5544 mac=A8:5B:78:8C:41:25->80:81:10:B8:C0:E0
+  2: Rssi=-43,channel=11,type=0,age=15289 mac=B8:E8:56:1D:3D:98->00:1A:1E:CB:22:E0
+  3: Rssi=-81,channel=6,type=0,age=18635 mac=C4:07:2F:24:42:43->D4:6E:5C:70:5F:C4
+  4: Rssi=-87,channel=2,type=0,age=9460 mac=34:23:BA:1D:66:4E->00:0F:E2:EE:0D:E0
+  5: Rssi=-29,channel=11,type=0,age=15177 mac=A8:A6:68:B2:5F:8A->00:00:00:00:00:00
+  6: Rssi=-17,channel=4,type=0,age=14930 mac=80:71:7A:19:3B:F7->00:00:00:00:00:00
+  7: Rssi=-57,channel=11,type=0,age=15291 mac=00:16:6A:3F:ED:FA->00:00:00:00:00:00
+  8: Rssi=-89,channel=6,type=0,age=29478 mac=E8:99:C4:9B:F7:06->00:00:00:00:00:00
+  9: Rssi=-83,channel=10,type=0,age=7949 mac=AC:F7:F3:CD:05:07->00:00:00:00:00:00
+ 10: Rssi=-77,channel=8,type=0,age=24313 mac=00:95:69:19:2D:8C->00:00:00:00:00:00
+ 11: Rssi=-71,channel=6,type=0,age=28987 mac=14:36:C6:DC:F8:D4->00:00:00:00:00:00
+ 12: Rssi=-75,channel=10,type=0,age=27964 mac=80:BE:05:2C:EB:64->00:00:00:00:00:00
+ 13: Rssi=-53,channel=7,type=0,age=26884 mac=20:08:ED:EE:3B:93->00:00:00:00:00:00
+ 14: Rssi=-47,channel=7,type=0,age=26522 mac=54:9F:13:92:C0:EB->00:00:00:00:00:00
+ 15: Rssi=-47,channel=11,type=0,age=25718 mac=80:E6:50:92:C9:35->00:00:00:00:00:00
+ 16: Rssi=-91,channel=1,type=0,age=12402 mac=68:DF:DD:A8:B1:03->00:0F:E2:EE:0D:E3
+ 17: Rssi=-83,channel=1,type=0,age=22402 mac=00:0F:E2:EE:0D:E0->34:23:BA:1D:66:4E
+ 18: Rssi=-83,channel=8,type=0,age=3425 mac=64:09:80:FA:D0:9B->00:00:00:00:00:00
+ 19: Rssi=-83,channel=8,type=0,age=3689 mac=8C:00:6D:A8:13:28->00:00:00:00:00:00
+ 20: Rssi=-81,channel=5,type=0,age=21323 mac=F0:24:75:71:B8:54->00:00:00:00:00:00
+ 21: Rssi=-79,channel=2,type=0,age=19536 mac=A0:88:B4:76:46:FC->00:00:00:00:00:00
+ 22: Rssi=-49,channel=10,type=0,age=7579 mac=A0:E4:53:66:3D:45->00:00:00:00:00:00
+ 23: Rssi=-57,channel=5,type=0,age=1312 mac=5C:0A:5B:FB:92:96->00:00:00:00:00:00
+ 24: Rssi=-81,channel=6,type=0,age=18785 mac=84:DB:AC:84:68:B9->D4:6E:5C:70:5F:C4
+ 25: Rssi=-77,channel=10,type=0,age=17747 mac=CC:07:E4:91:FD:47->00:00:00:00:00:00
+ 26: Rssi=-55,channel=7,type=0,age=16716 mac=80:9B:20:0F:11:C0->00:00:00:00:00:00
+ 27:

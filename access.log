@@ -1,0 +1,278 @@
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:tv.sohu.com/feihuindex4/	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:tv.sohu.com/upload/ifox/v4/user-login.html	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:click.hd.sohu.com.cn/BHOConfig.xml	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:tv.sohu.com/upload/ifox/v4/skin/global.css	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:tv.sohu.com/upload/ifox/index2014/skin/main_v5.css	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:js.tv.itc.cn/gg.seed.js	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:tv.sohu.com/upload/ifox/index2014/skin/index_v5.css	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:tv.sohu.com/upload/jq_plugin/j_1.7.2.js	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:tv.sohu.com/upload/ifox/v4/skin/global.css	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:tv.sohu.com/upload/ifox/v4/skin/main.css	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:tv.sohu.com/upload/ifox/v4/skin/newlogin.css	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:tv.sohu.com/upload/jq_plugin/j_1.7.2.js	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:tv.sohu.com/upload/ifox/v4/js/g.js	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:f.aty.sohu.com/p?cat=354895522&pos=fo_sohuv_1_1|cp_sohuv_1_1&al=&qd=&pageUrl=http%3A//tv.sohu.com/feihuindex4/	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:a1.itc.cn/pv/js/spv.1305141919.js	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:images.sohu.com/ytv/BJ/BJSC/8009020140917171055.html?ref=http%3A//tv.sohu.com/feihuindex4/&clickping=http%3A//mmg.aty.sohu.com/goto%3Fc%3D2895%26s1%3D2896%26p%3Dcp_sohuv_1_1%26bar%3D7937%26ac%3D13516%26ad%3D188182%26pt%3D17881%26b%3D233443%26bk%3D68210458%26al%3D%26uv%3D14401227028506021570%26loc%3DCN11%26rip%3D219.142.69.78	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:204	http:fmg.aty.sohu.com/pvlog?c=2895&s1=2896&p=fo_sohuv_1_1&bar=7966&al=&uv=14401227028506021570&loc=CN11&rip=219.142.69.78&_=1442477846151	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:fmg.aty.sohu.com/pv?c=2895&s1=2896&p=cp_sohuv_1_1&bar=7937&ac=13516&ad=188182&pt=17881&b=233443&bk=68210458&al=&uv=14401227028506021570&loc=CN11&rip=219.142.69.78&vp=s&type=1&_=1442477846149	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:rc.vrs.sohu.com/ifox/home?encoding=GBK&pageNum=1&pageSize=60&r=1397017741162&source=48&ab=0&p=&u=13828378758858911016&y=null&_=1442477846182	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:p.tanx.com/ex?i=mm_26632206_2690592_33736200	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:hot.vrs.sohu.com/vrs_sohuva.action?size=8&encoding=GBK&callback=jQuery17202669836291419755_1442477845971&_=1442477846189	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:tv.sohu.com/upload/ifox/v4/js/sotip.js?_=1442477846234	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:atanx.alicdn.com/t/tanxssp/main.js	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:photocdn.sohu.com/tvpgc/20150917/266646529_150b2e20300g201b_43_1.jpg	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:click.hd.sohu.com.cn/r.gif?url=http://tv.sohu.com/feihuindex4/&fuid=13828378758858911016&yyid=null&passport=&sid=1309080927236180&uid=305499415&msg=impression&formwork=48&rec=0_2566680_500080103_7_48_0,1_2586074_500080103_25_48_0,2_2584956_500080103_25_48_0,3_2583648_500080103_25_48_0,4_2538027_500080103_13_48_0,5_74072321_500080103_36_48_0&v=67436546&uuid=1442477846182&type=500&ab=0	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:photocdn.sohu.com/tvmobile/20150917/14424762460981987.jpg	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:ctr.hd.sohu.com/ctr.gif?url=http://tv.sohu.com/feihuindex4/&fuid=13828378758858911016&yyid=null&passport=&sid=1309080927236180&uid=305499415&msg=impression&formwork=48&rec=0_2566680_500080103_7_48_0,1_2586074_500080103_25_48_0,2_2584956_500080103_25_48_0,3_2583648_500080103_25_48_0,4_2538027_500080103_13_48_0,5_74072321_500080103_36_48_0&v=67436546&uuid=1442477846182&type=500&ab=0	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:photocdn.sohu.com/tvmobile/20150917/14424620668931151.jpg	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:photocdn.sohu.com/20150902/e8518d09-0258-435c-bd61-cae00379bdd3_2538027_S_003_b_1E548_pic2.jpg	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:pv.sohu.com/pv.gif?t?=1442477847124925_1280_800?r?=	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:ope.tanx.com/ex?i=mm_26632206_2690592_33736200&cb=jsonp_callback_8522&callback=&userid=&o=&f=&n=&re=1280x800&r=1&cah=760&caw=1280&ccd=32&ctz=8&chl=1&cja=1&cpl=0&cmm=0&cf=10.0&cg=aff02a27849d4bc6ea552ff396d4407a&pvid=a6c19c1f2dd370d4142ebb089554dd1d&pvid_1=b59d5a9aad201d36a63dd627ff357f67&ai=0&ac=5298&prm=55082550&cas=prm&cbh=3130&cbw=840&dx=1&u=http%3A%2F%2Ftv.sohu.com%2Ffeihuindex4%2F&k=&tt=%E6%90%9C%E7%8B%90%E5%BD%B1%E9%9F%B3%E9%A6%96%E9%A1%B5%20-%20%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:p.tanx.com/ex?i=mm_26632206_2690592_11226894	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:df.tanx.com/spf?e=Zw2pDVpQaCE6sENrlwpRJ%2F6MsuDIuED9X4gwcOIgPgSDfn%2BqKTDLTTrn0jL0atXkWb4i7iZl4QELOYVgwsNUjzFcVh1%2F56F86vjFybPtCFZLF42A7uJHRf4gQY5KKX9ZWR0XRvIIs82XgKfeVaveKRsQmLP5zomM&u=&k=161&tanxssp_t=15832	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:204	http:b.scorecardresearch.com/b?c1=2&c2=7395122&c3=&c4=&c5=&c6=&c15=&ns__t=1442477846921&ns_c=gb2312&c8=%E6%90%9C%E7%8B%90%E5%BD%B1%E9%9F%B3%E9%A6%96%E9%A1%B5%20-%20%E6%90%9C%E7%8B%90%E8%A7%86%E9%A2%91&c7=http%3A%2F%2Ftv.sohu.com%2Ffeihuindex4%2F&c9=	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:204	http:sohu.wrating.com/a.gif?a=14fda613321&t=&i=24ddb7022.14cbbf70a0f.0.b62df116b6d38&b=http%3A//tv.sohu.com/feihuindex4/&c=860010-2288050100&s=1280x800x32&l=zh-cn&z=8&j=1&f=10.0&ut=11&n=&js=&ck=1	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:ope.tanx.com/ex?i=mm_26632206_2690592_11226894&cb=jsonp_callback_1392&callback=&userid=&o=&f=&n=&re=1280x800&r=1&cah=760&caw=1280&ccd=32&ctz=8&chl=1&cja=1&cpl=0&cmm=0&cf=10.0&cg=b041b5f4e025a5f6bf378dbc8d85b431&pvid=a1ffa461d5b12ea0f208e110f7060e95&pvid_1=b5b850f265cea026c8798c7428aa2b2c&ai=0&ac=847&prn=52458663&cas=prn&cbh=90&cbw=800&dx=1&u=http%3A%2F%2Ftv.sohu.com%2Ffeihuindex4%2F&k=&tt=	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:df.tanx.com/spf?e=ukQMiAODYlA6sENrlwpRJ%2F6MsuDIuED9V1537BZeb2k8P5pFuI4e0DVq6RhYWfeoWb4i7iZl4QHj6AYvt0MTKzX7Ve9CZZWfmIQxHyWX9MT3ssnvGw5hDM9PsN6K9XZOe3mbz3356jsbMcXfzuUrVhYi70EJHRrN&u=&k=161&tanxssp_t=91844	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:strip.taobaocdn.com/tfscom/TB1UJGOGFXXXXavXFXXO04pFXXX.html?pid=tt_26632206_2690592_11226894&refpid=tt_26632206_2690592_11226894&pvid=0a672a0f000055fa771d3d40014b77d5_0&ps_id=a1ffa461d5b12ea0f208e110f7060e95&url=http%3A%2F%2Ftv.sohu.com%2Ffeihuindex4%2F&tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_26632206_2690592_11226894%26pvid%3d0a672a0f000055fa771d3d40014b77d5%26s%3d800x90%26d%3d17534123%26t%3d1442477853	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:pv.hd.sohu.com/pvpb.gif?url=http%3A%2F%2Ftv.sohu.com%2Ffeihuindex4%2F&refer=&fuid=13828378758858911016&yyid=&showqd=&vid=&nid=&pid=&cid=&suv=1309080927236180&istoploc=t&topurl=&lb=0&oth=null&cd=null&lf=&passport=&_=1442477847913&islogin=f&catename=&catecode=&ugu=&ugcode=&pagewidth=840&playlistid=&A=t&SA=t&SV=t&EV=t&MP3=t&AE=t&VE=t&ACC=t&PR=t&SP=f&SB=f&DEB=f&V=WIN%2018%2C0%2C0%2C232&M=Adobe%20Windows&R=1280x800&COL=color&AR=1.0&OS=Windows%207&ARCH=x86&L=zh-CN&IME=t&PR32=t&PR64=f&PT=ActiveX&AVD=f&LFD=f&WD=f&TLS=t&ML=5.1&DP=72	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:dsp.simba.taobao.com/feedback?bid=0a672a0f000055fa771d3d40014b77d5&v=1&e=1&p=AQpnKg8AAFX6dx09QAFLd9UuOQ7gL2NT6A%3D%3D	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:textlink.simba.taobao.com/bl?number=12&productid=30&pid=tt_26632206_2690592_11226894&p4p=&esize=225x90&callback=tbcc_hotword_fnc2014_10_153778_14424778479421442477847973&refpid=tt_26632206_2690592_11226894&pvid=0a672a0f000055fa771d3d40014b77d5_0	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:img03.taobaocdn.com/imgextra/i3/10000023679688196/T2bdWwXdVbXXXXXXXX_!!0-1-newland.gif	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:img04.taobaocdn.com/imgextra/i4/10000026308531279/T2yOf2XdFbXXXXXXXX_!!0-2-newland.png	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477849	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:my.tv.sohu.com/user/a/verifyCode/pic.do	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:img04.taobaocdn.com/imgextra/i4/10000026321327443/T2yQcOXopXXXXXXXXX_!!0-2-newland.png	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:img03.taobaocdn.com/imgextra/i3/10000017671526509/T2yjiGXohaXXXXXXXX_!!0-1-newland.gif	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477854	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:301	http:zhihu.com/	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:www.zhihu.com/	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:img01.taobaocdn.com/imgextra/i1/10000017862110792/T2FJlyXgBNXXXXXXXX_!!0-0-newland.jpg	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:pic4.zhimg.com/7e626246b_m.jpg	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pic2.zhimg.com/8ffe2ed7d_m.jpg	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pic2.zhimg.com/7a579133e50fc9125ff7cda05249fcf1_m.jpg	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pic2.zhimg.com/bd6b19fc1_m.jpg	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pic4.zhimg.com/cdadbe013_m.jpg	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pic2.zhimg.com/424c70919_m.jpg	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pic1.zhimg.com/a78b253d8f27af0933c63bae17bb5cb0_m.jpg	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477859	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:304	http:www.google-analytics.com/ga.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:www.zhihu.com/captcha.gif?r=1442477859261	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:www.google-analytics.com/__utm.gif?utmwv=5.6.7&utms=1&utmn=1815502081&utmhn=www.zhihu.com&utmt=var&utmht=1442477859520&utmac=UA-20961733-1&utmcc=__utma%3D51854390.1174194600.1416970036.1442473991.1442477859.11%3B%2B__utmz%3D51854390.1437535686.5.3.utmcsr%3Dv2ex.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Ft%2F207295%3B%2B__utmv%3D51854390.000--%3B&utmjid=&utmu=oBMQAAAAAAAAAAAAAAAAAAAE~	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:302	http:www.google-analytics.com/r/__utm.gif?utmwv=5.6.7&utms=2&utmn=1908497324&utmhn=www.zhihu.com&utme=8(user_attr*registration_date*entry_date*abtest_group)9(000--*20130207*20141002*------------------------------)11(2!1*1)&utmcs=UTF-8&utmsr=1280x800&utmvp=1263x675&utmsc=24-bit&utmul=zh-cn&utmje=1&utmfl=18.0%20r0&utmdt=%E7%9F%A5%E4%B9%8E%20-%20%E4%B8%8E%E4%B8%96%E7%95%8C%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E7%9F%A5%E8%AF%86%E3%80%81%E7%BB%8F%E9%AA%8C%E5%92%8C%E8%A7%81%E8%A7%A3&utmhid=1813869383&utmr=-&utmp=%2F&utmht=1442477859555&utmac=UA-20961733-1&utmcc=__utma%3D51854390.1174194600.1416970036.1442473991.1442477859.11%3B%2B__utmz%3D51854390.1437535686.5.3.utmcsr%3Dv2ex.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Ft%2F207295%3B%2B__utmv%3D51854390.000--%3B&utmjid=1626474201&utmredir=1&utmu=qRMQAAAAAAAAAAAAAAAAAAAE~	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:www.google-analytics.com/__utm.gif?utmwv=5.6.7&utms=3&utmn=1100606929&utmhn=www.zhihu.com&utmt=event&utme=14(4320*0*0*200*0*1250*2580*2640)(4328*0*0*203*2*1259*2587*2647)8(user_attr*registration_date*entry_date*abtest_group)9(000--*20130207*20141002*------------------------------)11(2!1*1)&utmcs=UTF-8&utmsr=1280x800&utmvp=1263x675&utmsc=24-bit&utmul=zh-cn&utmje=1&utmfl=18.0%20r0&utmdt=%E7%9F%A5%E4%B9%8E%20-%20%E4%B8%8E%E4%B8%96%E7%95%8C%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E7%9F%A5%E8%AF%86%E3%80%81%E7%BB%8F%E9%AA%8C%E5%92%8C%E8%A7%81%E8%A7%A3&utmhid=1813869383&utmr=-&utmp=%2F&utmht=1442477860860&utmac=UA-20961733-1&utmcc=__utma%3D51854390.1174194600.1416970036.1442473991.1442477859.11%3B%2B__utmz%3D51854390.1437535686.5.3.utmcsr%3Dv2ex.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Ft%2F207295%3B%2B__utmv%3D51854390.000--%3B&utmjid=&utmu=qRMQAAAAAAAAAAAAAAAAAAAE~	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:img03.taobaocdn.com/imgextra/i3/10000025990008911/T2eewOXklXXXXXXXXX_!!0-1-newland.gif	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:img03.taobaocdn.com/imgextra/i3/10000023092908066/T2gAROXnBdXXXXXXXX_!!0-1-newland.gif	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477864	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:301	http:hupu.com/	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:www.hupu.com/	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:304	http:b3.hoopchina.com.cn/common/common-v1.css	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:b3.hoopchina.com.cn/common/common-v1.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:goto.hupu.com/js/c/56.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:cc.dace.hupu.com/_dace.gif?vid=15dcf2f2.4e1a.6688.a305.596ddb6547ab&sid=Web_CH_www&aid=14ad75ec.391838c1&vst=38a3f7a7.2356f716&lgn=0&act=i&cxy=&clk=&plt=0&url=http%3A%2F%2Fwww.hupu.com%2F&crs=1280x800&ccd=24-bit&cbl=zh-cn&cjv=1&cck=1&cfl=1&v=1.0.2647&bk1=&bk2=&bk3=&tru=&chv=	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:orz.hupu.com/hupu/stream.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:www.googletagservices.com/tag/js/gpt.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t1.hoopchina.com.cn/topn-v2.html	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t1.hoopchina.com.cn/img/75231214713.jpg?1442477497845	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:cc.dace.hupu.com/_dace.gif?et=topn&zid=8201193&aid=75231214713&lid=103494513&durl=http%3A%2F%2Fgoto.hupu.com%2F%3Fa%3DgoClick%26id%3D11338&t=1442477867727	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t1.hoopchina.com.cn/img/76460631633.jpg?1442477498997	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:cc.dace.hupu.com/_dace.gif?et=topn&zid=8201313&aid=76460631633&lid=103961313&durl=http%3A%2F%2Fwww.kaluli.com%2Fhuodong%2Fdiscount%3Fad_from%3Dby%26ad_page%3Dby%26ad_pos%3D20150910&t=1442477867796	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=1204777800171520&output=json_html&callback=googletag.impl.pubads.setAdContentsBySlotForSync&impl=ss&json_a=1&eid=108809080%2C108809049&sc=0&sfv=1-0-2&iu_parts=1016953%2Chupu_index728x90_2%2Chupu_index728x90_5%2Chupu_index728x90_7%2Chupu_ndex_rightabovevote_240x200%2Chupu-index-rightbottom-200x200%2Chupu_index_rightundervote240x240%2Chupu_index_1x1_half%2Chupu_index_1x1_dx%2Chupu_index_1x1&enc_prev_ius=%2F0%2F1%2C%2F0%2F2%2C%2F0%2F3%2C%2F0%2F4%2C%2F0%2F5%2C%2F0%2F6%2C%2F0%2F7%2C%2F0%2F8%2C%2F0%2F9&prev_iu_szs=728x90%2C728x90%2C728x90%2C240x200%2C200x200%2C240x240%2C1x1%2C1x1%2C1x1&eri=32&cookie=ID%3Dadf788d6fe0718be%3AT%3D1411016386%3AS%3DALNI_MYLDkW2dMOqi8dwZuz1pdREQ4dXJA&lmt=1442477867&dt=1442477867533&cc=100&frm=20&biw=1263&bih=675&oid=3&adks=4228078979%2C750933662%2C984879472%2C347179903%2C2412365717%2C510214553%2C757500046%2C718920228%2C1623683705&gut=v2&ifi=1&u_tz=480&u_his=2&u_java=true&u_h=800&u_w=1280&u_ah=760&u_aw=1280&u_cd=24&u_nplug=6&u_nmime=8&u_sd=1&flash=18.0.0&url=http%3A%2F%2Fwww.hupu.com%2F&dssz=12&icsg=56&std=0&csl=114&vrg=72&vrp=72&ga_vid=782748378.1442477868&ga_sid=1442477868&ga_hid=1453334221	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:img01.taobaocdn.com/imgextra/i1/10000028972694338/T2TwdzXCNaXXXXXXXX_!!0-0-newland.jpg	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:img04.taobaocdn.com/imgextra/i4/10000017666669891/T2_MJkXndNXXXXXXXX_!!0-1-newland.gif	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:204	http:cm.g.doubleclick.net/push?client=ca-pub-1024337685431355&srn=gdn	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:pagead2.googlesyndication.com/pagead/expansion_embed.js?source=safeframe	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:204	http:cm.g.doubleclick.net/push?client=ca-pub-1024337685431355&srn=gdn	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:pagead2.googlesyndication.com/pagead/osd.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:cpro.baidustatic.com/cpro/ui/c.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pagead2.googlesyndication.com/pagead/imgad?id=CICAgKDTw8i0EBDIARjIATIIlirHVZknH7c	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477869	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pos.baidu.com/acom?di=u2140372&dcb=BAIDU_DUP2_define&dtm=BAIDU_DUP2_SETJSONADSLOT&dbv=2&dci=0&dri=0&dis=0&dai=1&dds=&drs=1&dvi=1442290465&ltu=http%3A%2F%2Fwww.hupu.com%2F&liu=&ltr=&lcr=&ps=3407x141&psr=1280x800&par=1280x760&pcs=1263x675&pss=1263x3511&pis=-1x-1&cfv=0&ccd=24&chi=2&cja=true&cpl=6&cmi=8&cce=true&col=zh-CN&cec=UTF-8&cdo=-1&tsr=16&tlm=1442477869&tcn=1442477870&tpr=1442477869608&dpt=none&coa=at%3D3%26rsi0%3D728%26rsi1%3D90%26pat%3D6%26tn%3DbaiduCustNativeAD%26rss1%3D%2523FFFFFF%26conBW%3D1%26adp%3D1%26ptt%3D0%26titFF%3D%2525E5%2525BE%2525AE%2525E8%2525BD%2525AF%2525E9%25259B%252585%2525E9%2525BB%252591%26titFS%3D14%26rss2%3D%2523000000%26titSU%3D0%26ptbg%3D90%26piw%3D0%26pih%3D0%26ptp%3D0%26c01%3D1&dpr=1&ti=%E8%99%8E%E6%89%91%E4%BD%93%E8%82%B2%20-%20%E4%BD%A0%E7%9A%84%E4%BD%93%E8%82%B2%E5%85%A8%E4%B8%96%E7%95%8C%EF%BC%81&baidu_id=	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pos.baidu.com/acom?adn=3&adp=1&at=0&aurl=&c01=1&cad=1&ccd=24&cec=UTF-8&cfv=0&ch=0&col=zh-CN&conBW=1&conOP=1&cpa=1&dai=1&dis=0&layout_filter=image&ltr=&ltu=http%3A%2F%2Fwww.hupu.com%2F&lu_161=0&lunum=6&n=hcbd_cpr&pat=6&pcs=1263x675&pih=0&pis=10000x10000&piw=0&ps=3407x141&psr=1280x800&pss=1263x3511&ptbg=90&ptp=0&ptt=0&qn=fd21a00cb9d1a1d0&rad=&rsi0=728&rsi1=90&rsi5=4&rss0=%23FFFFFF&rss1=%23FFFFFF&rss2=%23000000&rss3=%23444444&rss4=%23008000&rss5=&rss6=%23e10900&rss7=&scale=&skin=tabcloud_skin_3&stid=5&td_id=2140372&titFF=%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591&titFS=14&titSU=0&titTA=left&tn=baiduCustNativeAD&tpr=1442477869608&ts=1&version=2.0&xuanting=0&dtm=BAIDU_DUP2_SETJSONADSLOT&dc=2&di=u2140372&ti=%E8%99%8E%E6%89%91%E4%BD%93%E8%82%B2%20-%20%E4%BD%A0%E7%9A%84%E4%BD%93%E8%82%B2%E5%85%A8%E4%B8%96%E7%95%8C%EF%BC%81&tt=1442477869577.36.87.98	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:orz.hupu.com/hupu/stream.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:wn.pos.baidu.com/adx.php?c=d25pZD01OTAxYzVjNjc5ZjUzOGU2AHM9NTkwMWM1YzY3OWY1MzhlNgB0PTE0NDI0Nzc4NzUAc2U9MQBidT00AHByaWNlPVZmcDNNd0FHS2QxN2pFcGdXNUlBOG1qNXRUWmZvanJqNWR0b3lBAGNoYXJnZV9wcmljZT1WZnAzTXdBR0tkMTdqRXBnVzVJQThtajV0VFpmb2pyajVkdG95QQBzaGFyaW5nX3ByaWNlPVZmcDNNd0FHS2QxN2pFcGdXNUlBOG1qNXRUWmZvanJqNWR0b3lBAHdpbl9kc3A9NABjaG1kPTEAYmRpZD0wREM0RUNFNjA0MUVERjlENzZBREYyMTVGQjM3MzlCRQBjcHJvaWQ9MERDNEVDRTYwNDFFREY5RDc2QURGMjE1RkIzNzM5QkUAYmNobWQ9MAB2PTEAaT05YmM3OWFlMg	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:photo.hupu.com/dfp/hupu_index_1x1.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t10.baidu.com/it/u=2376927222,3301199163&fm=76	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t11.baidu.com/it/u=1600986892,2149526263&fm=76	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t10.baidu.com/it/u=3809493093,3689483219&fm=76	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t12.baidu.com/it/u=3534424580,4036856585&fm=76	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t10.baidu.com/it/u=2103007533,2889243998&fm=76	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:t11.baidu.com/it/u=622341898,868494973&fm=76	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:v.admaster.com.cn/i/a24192,b200590609,c2805,i0,m202,h	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:static.googleadsserving.cn/pagead/images/x_button_blue2.png	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:204	http:cm.g.doubleclick.net/push?client=ca-pub-1024337685431355&srn=gdn	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:204	http:cm.g.doubleclick.net/push?client=ca-pub-1024337685431355&srn=gdn	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pagead2.googlesyndication.com/activeview?id=osdim&avi=Binb4MXf6VY6LFIX09QWW6LDABgAAAAAQATgByAEJwAIC4AIA4AQBoAYWwhMDEIAB&cid=5GhEc6HtLnNmR4SMIbAgdkVSYII&ti=1&adk=750933662&p=3407,142,3407,870&tos=0,0,0,0,0&mtos=0,0,0,0,0&rs=3&ht=0&fp=correlator%3D1204777800171520%26eid%3D108809080%252C108809049%26iu%3D%252F1016953%252Fhupu_ndex_rightabovevote_240x200%26oid%3D3%26url%3Dhttp%253A%252F%252Fwww.hupu.com%252F&afp=%26output%3Djson_html%26impl%3Ds%26dt%3D1442477867570%26ifi%3D3%26flash%3D18.0.0&tmo=655&tme=655&tcl=2411&abd=1-0-1&r=u&bs=1263,675&bos=160,27&ps=1263,5593&ss=1280,800&tt=2578&pt=-1&deb=1-0-7-9-2--1&tvt=0&uc=1&tgt=IFRAME&cl=1	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:photo.hupu.com/dfp/hupu_index_1x1_half.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:goto.hupu.com/?pid=56	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:goto.hupu.com/js/c/83.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:goto.hupu.com/?pid=83	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:w.cnzz.com/c.php?id=30020080	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:hm.baidu.com/hm.js?id=2325935	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:www.hupu.com/ad_pv/www_advertise.html?to=area	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:afp.csbew.com/a.htm?pv=1&sp=94293,1,0,0,0,1,1,18&ec=UTF-8&re=1280,800&jsv=7&cb=1397313471&seq=1&fs=9	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:c.cnzz.com/core.php?web_id=30020080&t=q	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:remind.hupu.com/api/getRemindNum.api.php?contenttype=js&url=http%3A%2F%2Fwww.hupu.com%2F	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:hqs1.cnzz.com/stat.htm?id=30020080&r=&lg=zh-cn&ntime=1442471017&cnzz_eid=1601785745-1411016385-&showp=1280x800&cv=buzi_cookie%7C15dcf2f2.4e1a.6688.a305.596ddb6547ab%7C-1&t=%E8%99%8E%E6%89%91%E4%BD%93%E8%82%B2%20-%20%E4%BD%A0%E7%9A%84%E4%BD%93%E8%82%B2%E5%85%A8%E4%B8%96%E7%95%8C%EF%BC%81&h=1&rnd=2062675165	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:www.hupu.com/global/lingguang?page=1	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pos.baidu.com/wh/o.htm?ltr=&cf=u	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:img01.taobaocdn.com/imgextra/i1/10000017634367215/T2QFWrXhVbXXXXXXXX_!!0-1-newland.gif	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:img01.taobaocdn.com/imgextra/i1/10000027919359828/T2ZwQNXh0aXXXXXXXX_!!0-2-newland.png	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:304	http:dup.baidustatic.com/tpl/wh.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:304	http:dup.baidustatic.com/tpl/ac.js	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pagead2.googlesyndication.com/activeview?id=osdim&avi=BuoT7MXf6VZOLFIX09QWW6LDABgAAAAAQATgByAEJwAIC4AIA4AQBoAYWwhMDEIAB&cid=5Gg0P99y9IknfLP7Q_BRq2Y5V6g&ti=1&adk=757500046&p=5732,0,5732,1&tos=0,0,0,0,0&mtos=0,0,0,0,0&rs=3&ht=0&fp=correlator%3D1204777800171520%26eid%3D108809080%252C108809049%26iu%3D%252F1016953%252Fhupu_ndex_rightabovevote_240x200%26oid%3D3%26url%3Dhttp%253A%252F%252Fwww.hupu.com%252F&afp=%26output%3Djson_html%26impl%3Ds%26dt%3D1442477867590%26ifi%3D8%26flash%3D18.0.0&tmo=2837&tme=2837&tdl=3771&abd=1-0-1&r=u&bs=1263,675&bos=160,27&ps=1263,5734&ss=1280,800&tt=4707&pt=-1&deb=1-0-9-9-6--1&tvt=0&uc=1&tgt=nf&cl=0	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pos.baidu.com/wh/o.swf?v=1	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:ec.pos.baidu.com/b.php	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:eclick.baidu.com/nova_fp.htm?br=2&fp=E6940E85EE017AD9A98E6EAF6380EFC6&fp2=6135F3A2AA320AE2B8B7A55F695BEC2D&ci=0DC4ECE6041EDF9D76ADF215FB3739BE%3AFG%3D1&bi=0DC4ECE6041EDF9D76ADF215FB3739BE%3AFG%3D1&im=0&wf=1&ct=357&bp=&m=&t=0&ft=&_=1442477874021	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477874	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pos.baidu.com/wh/c.swf?v=3	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:200	http:eclick.baidu.com/fp.htm?ci=0DC4ECE6041EDF9D76ADF215FB3739BE%3AFG%3D1&cn=0DC4ECE6041EDF9D76ADF215FB3739BE%3AFG%3D1&cu=&cl=0DC4ECE6041EDF9D76ADF215FB3739BE%3AFG%3D1&cf=&ce=0DC4ECE6041EDF9D76ADF215FB3739BE&ff=u&cuid=&cuid2=&de=&bp=&nip=&_=1442477874708	agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477879	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477884	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:s.p.youku.com/iku/log/acc?peerid=2000000000000000000055D59BC90026C7705CC2&ver=8.0.0.8120&flag=39	agent:ikucmc	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:click.hd.sohu.com.cn/BHOConfig.xml	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477889	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477894	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/mbox/query/diff?clienttype=8&devuid=BDIMXV2%2DO%5F63F2766928E84D37AC54386166658D12%2DC%5F0%2DD%5F010180CP3K40KGRG8RK0%2DM%5FF0DEF12E0C61%2DV%5F2E22A171&channel=00000000000000000000000000000000&version=5.3.1.3&logid=JwAxADQANAAyADQANwA3ADgAOQA3ACwAMQA5ADIALgAxADYAOAAuADEALgAyADAAOQAsADUA%0AOAA1ACcA	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477899	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477904	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477909	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477914	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477919	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:220.181.131.230/cloudquery.php	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477924	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477929	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477934	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477939	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477944	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477949	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477954	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477959	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477964	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477969	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get&clienttype=8&devuid=BDIMXV2%2DO%5F63F2766928E84D37AC54386166658D12%2DC%5F0%2DD%5F010180CP3K40KGRG8RK0%2DM%5FF0DEF12E0C61%2DV%5F2E22A171&channel=00000000000000000000000000000000&version=5.3.1.3&logid=JwAxADQANAAyADQANwA3ADkANwAyACwAMQA5ADIALgAxADYAOAAuADEALgAyADAAOQAsADgA%0AMwAwACcA	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/rest/2.0/membership/speeds?method=queryadmsg&clienttype=8&devuid=BDIMXV2%2DO%5F63F2766928E84D37AC54386166658D12%2DC%5F0%2DD%5F010180CP3K40KGRG8RK0%2DM%5FF0DEF12E0C61%2DV%5F2E22A171&channel=00000000000000000000000000000000&version=5.3.1.3&logid=JwAxADQANAAyADQANwA3ADkANwAyACwAMQA5ADIALgAxADYAOAAuADEALgAyADAAOQAsADgA%0AMwAwACcA	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/rest/2.0/membership/speeds?method=query&method_version=2&clienttype=8&devuid=BDIMXV2%2DO%5F63F2766928E84D37AC54386166658D12%2DC%5F0%2DD%5F010180CP3K40KGRG8RK0%2DM%5FF0DEF12E0C61%2DV%5F2E22A171&channel=00000000000000000000000000000000&version=5.3.1.3&logid=JwAxADQANAAyADQANwA3ADkANwAyACwAMQA5ADIALgAxADYAOAAuADEALgAyADAAOQAsADgA%0AMwAwACcA	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477974	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477979	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477984	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477989	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477994	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442477999	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478004	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:click.hd.sohu.com.cn/BHOConfig.xml	agent:Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.2; .NET4.0E; .NET4.0C)	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478009	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478014	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478019	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478024	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478029	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478034	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:400	http:localhost-	agent:-	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478039	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
+status:200	http:pan.baidu.com/res/static/thirdparty/connect.jpg?t=1442478044	agent:netdisk;5.3.1.3;PC;PC-Windows;6.1.7601;WindowsBaiduYunGuanJia	ip:192.168.1.209
