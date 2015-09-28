@@ -19,6 +19,7 @@
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netdb.h>
+#include <time.h>
 #include "utils.h"
 
 
@@ -212,8 +213,13 @@ int main(int argc, char *argv[])
     char buf[MAXLINE];
     char *http = NULL;
     char *ip = NULL;
+    char *mac = NULL;
     char *agent = NULL;
     char *s,*p1;
+    time_t timer;
+    char *time_buffer=NULL;
+    struct tm* tm_info;
+
 
     
     struct hostent *host;
@@ -288,6 +294,7 @@ int main(int argc, char *argv[])
 				break;
 			case oIp:
 				ip = parse_ip(p1);
+				mac = arp_get(ip);
 				//printf("oip");
 				break;
 			case oStatus:
@@ -301,7 +308,12 @@ int main(int argc, char *argv[])
 		TO_NEXT_CONF(s, finished);
 		if(finished==1){
     				
-    				logmsg = (char *)malloc(MAXLINE);
+    				
+				time(&timer);
+    				tm_info = localtime(&timer);
+    				time_buffer = (char *)malloc(26);
+    				strftime(time_buffer, 26, "%Y:%m:%d %H:%M:%S", tm_info);
+				logmsg = (char *)malloc(MAXLINE);
 				if (paramnum<3){
 					if(paramnum==0){
 					
@@ -310,7 +322,7 @@ int main(int argc, char *argv[])
     					sprintf(uploadmsg,"{\"gw_id\":\"%s\"\,\"gw_mac\":\"%s\"\,\"log\":[",ssid,gw_mac);
 					}
 					//sprintf(uploadmsg+strlen(uploadmsg),logmsg);
-					sprintf(logmsg,"{\"log_value\":\"%s\"\,\"user_agent\":\"%s\"}\,",http,agent);
+					sprintf(logmsg,"{\"time\":\"%s\"\,\"user\":\"\"\,\"log_type\":\"1\"\,\"log_value\":\"%s\"\,\"user_agent\":\"%s\"\,\"mac\":\"%s\"}\,",time_buffer,http,agent,mac);
 					strcat(uploadmsg,logmsg); 
 					paramnum++;
 					//printf("%s\n",logmsg);		
@@ -323,7 +335,7 @@ int main(int argc, char *argv[])
 							//perror("sendto()");
 							//return 1;
     					//}
-					sprintf(logmsg,"{\"log_value\":\"%s\"\,\"user_agent\":\"%s\"}]}",http,agent);
+					sprintf(logmsg,"{\"time\":\"%s\"\,\"user\":\"\"\,\"log_type\":\"1\"\,\"log_value\":\"%s\"\,\"user_agent\":\"%s\"\,\"mac\":\"%s\"}]}",time_buffer,http,agent,mac);
 					strcat(uploadmsg,logmsg); 
 					//sprintf(uploadmsg+strlen(uploadmsg),logmsg);
 					//printf("%s\n",uploadmsg);		
@@ -344,9 +356,11 @@ int main(int argc, char *argv[])
 				//return 1;
     			//}
 			free(logmsg);
+			free(time_buffer);
 			free(http);
 			free(agent);
 			free(ip);
+			free(mac);
 		}
 	}
 	
