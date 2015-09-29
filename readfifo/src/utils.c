@@ -154,5 +154,16 @@ arp_get(const char *req_ip)
 }
 
 
+char * safe_strdup(const char *s) {
+	char * retval = NULL;
+	if (!s) {
+		exit(1);
+	}
+	retval = strdup(s);
+	if (!retval) {
+		exit(1);
+	}
+	return (retval);
+}
 
 

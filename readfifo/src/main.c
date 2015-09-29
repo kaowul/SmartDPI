@@ -21,7 +21,7 @@
 #include <netdb.h>
 #include <time.h>
 #include "utils.h"
-
+#include "conf.h"
 
 #define MAX_LEN		40960
 #define MAXLINE 4096
@@ -91,18 +91,6 @@ bool startsWith(const char *pre, const char *str)
 	} \
 } while (0)
 
-
-char * safe_strdup(const char *s) {
-	char * retval = NULL;
-	if (!s) {
-		exit(1);
-	}
-	retval = strdup(s);
-	if (!retval) {
-		exit(1);
-	}
-	return (retval);
-}
 
 
 
@@ -202,6 +190,13 @@ char* parse_ip(char *ptr){
 int main(int argc, char *argv[])
 {
 
+   s_config *config = config_get_config();
+   config_init();
+   config_read(config->configfile);
+   t_serv *log_server = config->log_servers ;
+   
+
+
 
     size_t len = 0;
     ssize_t read;
@@ -228,18 +223,16 @@ int main(int argc, char *argv[])
     int len1 = sizeof(struct sockaddr_in);
     char *logmsg = NULL;
    
-    char *gw_mac = NULL;
-    char *ssid = NULL;
     
-    if (!gw_mac) {
-	    if ((gw_mac = get_iface_mac("br-lan")) == NULL) {
+    if (!config->gw_mac) {
+	    if ((config->gw_mac = get_iface_mac(config->gw_interface)) == NULL) {
 		    printf("Could not get Hostname information of %s, exiting...");
 		    exit(1);
 	    }
     }
 
-    if (!ssid) {
-	    if ((ssid = ssidRead()) == NULL) {
+    if (!config->ssid) {
+	    if ((config->ssid = ssidRead()) == NULL) {
 		    printf("Could not get Hostname information of %s, exiting...");
 		    exit(1);
 	    }
@@ -248,20 +241,19 @@ int main(int argc, char *argv[])
 
 
  
-    host = gethostbyname("42.123.76.25");
-    port = atoi("5140");
+    host = gethostbyname(log_server->serv_hostname);
     if ((sock=socket(AF_INET, SOCK_DGRAM, IPPROTO_UDP)) == -1) {
 	perror("socket");
 	return 1;
     }
     memset((char *) &server, 0, sizeof(struct sockaddr_in));
     server.sin_family = AF_INET;
-    server.sin_port = htons(port);
+    server.sin_port = htons(log_server->serv_port);
     server.sin_addr = *((struct in_addr*) host->h_addr);
 
     char *uploadmsg = (char *)malloc(MAX_LEN);
     memset(uploadmsg, 0, sizeof(uploadmsg));
-    sprintf(uploadmsg,"{\"gw_id\":\"%s\"\,\"gw_mac\":\"%s\"\,\"log\":[",ssid,gw_mac);
+    sprintf(uploadmsg,"{\"gw_id\":\"%s\"\,\"gw_mac\":\"%s\"\,\"dev_id\":\"%s\"\,\"log\":[",config->ssid,config->gw_mac,config->dev_id);
     int paramnum =1 ;
     while( ReadLine(buf, MAXLINE, fp) ) {
 	
@@ -319,7 +311,7 @@ int main(int argc, char *argv[])
 					
     						uploadmsg = (char *)malloc(MAX_LEN);
     						memset(uploadmsg, 0, sizeof(uploadmsg));
-    					sprintf(uploadmsg,"{\"gw_id\":\"%s\"\,\"gw_mac\":\"%s\"\,\"log\":[",ssid,gw_mac);
+    sprintf(uploadmsg,"{\"gw_id\":\"%s\"\,\"gw_mac\":\"%s\"\,\"dev_id\":\"%s\"\,\"log\":[",config->ssid,config->gw_mac,config->dev_id);
 					}
 					//sprintf(uploadmsg+strlen(uploadmsg),logmsg);
 					sprintf(logmsg,"{\"time\":\"%s\"\,\"user\":\"\"\,\"log_type\":\"1\"\,\"log_value\":\"%s\"\,\"user_agent\":\"%s\"\,\"mac\":\"%s\"}\,",time_buffer,http,agent,mac);
@@ -367,8 +359,6 @@ int main(int argc, char *argv[])
     }
 	
 
-    free(gw_mac);
-    free(ssid);
 
     fclose(fp);
     unlink("/tmp/tp"); // delete a name and possibly the file it refers to
