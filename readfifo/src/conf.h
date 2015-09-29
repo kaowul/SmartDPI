@@ -35,7 +35,7 @@
 #define EXT_INTERFACE_DETECT_RETRY_INTERVAL 1
 
 /** Defaults configuration values */
-#define DEFAULT_CONFIGFILE "wifidog.conf"
+#define DEFAULT_CONFIGFILE "/etc/wifidog.conf"
 #define DEFAULT_DEV "RIXIN-RXMAR30P-20140715-f4b6c84f"
 #define DEFAULT_LOGSERVPORT 5140
 #define MAX_BUF 4096
