@@ -22,170 +22,8 @@
 #include <time.h>
 #include "utils.h"
 #include "conf.h"
+#include "parse_dpi.h"
 
-#define MAX_LEN		40960
-#define MAXLINE 4096
-#define true 1
-#define false 0
-
-
-#define ERR_EXIT(m) \
-    do { \
-        perror(m); \
-        exit(EXIT_FAILURE); \
-    } while(0)
-
-typedef enum {
-	oBadOption,
-	oStatus,
-	oHttp,
-	oAgent,
-	oIp,
-} OpCodes;
-
-/** @internal
- The config file keywords for the different configuration options */
-static const struct {
-	const char *name;
-	OpCodes opcode;
-} keywords[] = {
-	{ "status",             	oStatus },
-	{ "http",         	oHttp },
-	{ "agent",  	oAgent },
-	{ "ip",   	oIp },
-	{ NULL,				oBadOption },
-};
-
-
-
-
-static OpCodes
-conf_parse_line(const char *line,int paramnum)
-{
-	int i;
-
-	for (i = 0; keywords[i].name; i++)
-		if (strcasecmp(line, keywords[i].name) == 0)
-			return keywords[i].opcode;
-	
-	return oBadOption;
-}
-
-bool startsWith(const char *pre, const char *str)
-{
-    size_t lenpre = strlen(pre),
-           lenstr = strlen(str);
-    return lenstr < lenpre ? false : strncmp(pre, str, lenpre) == 0;
-}
-
-
-#define TO_NEXT_CONF(s, e) do { \
-	while (*s != '\0' && *s != '\t') { \
-		s++; \
-	} \
-	if (*s != '\0') { \
-		*s = '\0'; \
-		s++; \
-	} else { \
-		e = 1; \
-	} \
-} while (0)
-
-
-
-
-char* parse_http(char *ptr){
-	char *ptrcopy = NULL;
-	char *p1;
-	ptrcopy = safe_strdup(ptr);
-	if ((p1 = strchr(ptrcopy, '\t'))) {
-		p1[0] = '\0';
-	}
-	return ptrcopy;
-}
-
-char* inSubChar(char *ptrcopy){
-	char *p1=ptrcopy;
-	//if((p1 = strchr(ptrcopy, '-')) || (p1=strchr(ptrcopy, ' ')) || (p1 =strchr(ptrcopy, ',') )|| (p1=strchr(ptrcopy, '(') )||(p1 = strchr(ptrcopy, ')'))||(p1 = strchr(ptrcopy, ';')) )
-	while(*p1!='\0'){
-		if( (*p1 =='-')||(*p1 ==' ') ||(*p1 ==',')||(*p1 =='(')||(*p1 ==')')||(*p1 ==';'))	
-			return p1;
-		else
-			p1++;
-	}
-	return NULL;
-}
-
-
-char* parse_http2(char *ptr){
-	char *ptrcopy = NULL;
-	char *p1=NULL,*p2=NULL,*p3=NULL,*s1=NULL;	
-	ptrcopy = (char *)malloc(MAXLINE);
-	memcpy(ptrcopy,ptr,sizeof(ptr));
-
-	if ((p3 = strchr(ptrcopy, '\t'))) {
-		p3[0] = '\0';
-	}
-	s1 = ptrcopy;
-	int i =0;
-	while(p1=inSubChar(s1)){
-		p2 =p1;	
-		//memcpy(p1+1, p1, strlen(p1)); 
-		//p1[0] = "\\";	
-		p2++;
-		//p2++;
-		s1 = p2;
-		//printf("llop1");
-		i++; 
-	}
-	
-	printf("%d",i);
-	return ptrcopy;
-}
-
-char* parse_agent2(char *ptr){
-	char *ptrcopy = (char *)malloc(MAXLINE);
-	char *p1=NULL,*p2=NULL,*p3=NULL,*s1=NULL;	
-	if ((p1 = strchr(ptr, '\t'))) {
-		p1[0] = '\0';
-	}
-	memcpy(ptrcopy,ptr,strlen(ptr)+1); 
-	s1 = ptrcopy;
-	int i =0;
-	char tmp[MAXLINE];
-	tmp[0] = '\\';	
-	while(p1=inSubChar(s1)){
-		p2 =p1;	
-		memcpy(tmp+1, p1, strlen(p1)+1); 
-		p1[0] = '\\';
-		memcpy(p1, tmp, strlen(p1)+2);	
-		p2++;
-		p2++;
-		s1 = p2;
-		//printf("%c",*p1);
-		i++; 
-	}
-	
-	//printf("%d",i);
-	return ptrcopy;
-}
-
-char* parse_agent(char *ptr){
-	char *ptrcopy = NULL;
-	char *p1;
-	ptrcopy = safe_strdup(ptr);
-	if ((p1 = strchr(ptrcopy, '\t'))) {
-		p1[0] = '\0';
-	}
-	return ptrcopy;
-}
-
-char* parse_ip(char *ptr){
-	char *ptrcopy = NULL;
-	char *p1;
-	ptrcopy = safe_strdup(ptr);
-	return ptrcopy;
-}
 
 int main(int argc, char *argv[])
 {
@@ -195,9 +33,6 @@ int main(int argc, char *argv[])
    config_read(config->configfile);
    t_serv *log_server = config->log_servers ;
    
-
-
-
     size_t len = 0;
     ssize_t read;
     FILE *fp;
@@ -257,7 +92,7 @@ int main(int argc, char *argv[])
     int paramnum =1 ;
     while( ReadLine(buf, MAXLINE, fp) ) {
 	
-        if(startsWith("status:200",buf)==false){
+        if((startsWith("status:200",buf)==false)||(strstr(buf,"htm")==NULL)){
 		continue;		
 	}
 
@@ -313,40 +148,20 @@ int main(int argc, char *argv[])
     						memset(uploadmsg, 0, sizeof(uploadmsg));
     sprintf(uploadmsg,"{\"gw_id\":\"%s\"\,\"gw_mac\":\"%s\"\,\"dev_id\":\"%s\"\,\"log\":[",config->ssid,config->gw_mac,config->dev_id);
 					}
-					//sprintf(uploadmsg+strlen(uploadmsg),logmsg);
 					sprintf(logmsg,"{\"time\":\"%s\"\,\"user\":\"\"\,\"log_type\":\"1\"\,\"log_value\":\"%s\"\,\"user_agent\":\"%s\"\,\"mac\":\"%s\"}\,",time_buffer,http,agent,mac);
 					strcat(uploadmsg,logmsg); 
 					paramnum++;
-					//printf("%s\n",logmsg);		
 				}else{
-    					//*uploadmsg = (char *)malloc(MAX_LEN);
-					//sprintf(logmsg,"{\"log_value\":\"%s\"\,\"user_agent\":\"%s\"}]}",http,agent);
-					//length += sprintf(uploadmsg+length,logmsg);
-					//printf("%s\n",uploadmsg);		
-					//if (sendto(sock, uploadmsg, strlen(uploadmsg), 0, (struct sockaddr *) &server, len1) == -1) {
-							//perror("sendto()");
-							//return 1;
-    					//}
 					sprintf(logmsg,"{\"time\":\"%s\"\,\"user\":\"\"\,\"log_type\":\"1\"\,\"log_value\":\"%s\"\,\"user_agent\":\"%s\"\,\"mac\":\"%s\"}]}",time_buffer,http,agent,mac);
 					strcat(uploadmsg,logmsg); 
-					//sprintf(uploadmsg+strlen(uploadmsg),logmsg);
-					//printf("%s\n",uploadmsg);		
 					if (sendto(sock, uploadmsg, strlen(uploadmsg), 0, (struct sockaddr *) &server, len1) == -1) {
 							perror("sendto()");
 							return 1;
     					}
 					paramnum=0;
     					free(uploadmsg);
-					//ilength = 0; 
-    					//memset(uploadmsg, 0, sizeof(uploadmsg));
-    					//length += sprintf(uploadmsg,"{\"pubinfo\":\"%s\"\,\"log\":\"[{","hot");
 						
 				}
-				//printf("%s",sendmsg);		
-				//if (sendto(sock, sendmsg, strlen(sendmsg), 0, (struct sockaddr *) &server, len1) == -1) {
-				//perror("sendto()");
-				//return 1;
-    			//}
 			free(logmsg);
 			free(time_buffer);
 			free(http);
@@ -359,28 +174,8 @@ int main(int argc, char *argv[])
     }
 	
 
-
     fclose(fp);
     unlink("/tmp/tp"); // delete a name and possibly the file it refers to
     return 0;
-}
-
-int ReadLine(char *buff, int size, FILE *fp)
-{
-  buff[0] = '\0';
-  buff[size - 1] = '\0';             /* mark end of buffer */
-  char *tmp;
-
-  if (fgets(buff, size, fp) == NULL) {
-      *buff = '\0';                   /* EOF */
-      return false;
-  }
-  else {
-      /* remove newline */
-      if ((tmp = strrchr(buff, '\n')) != NULL) {
-        *tmp = '\0';
-      }
-  }
-  return true;
 }
 
