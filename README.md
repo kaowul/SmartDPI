@@ -12,8 +12,8 @@ AP设备以UDP向平台上报用户上网行为，包括URL，客户端mac，设
 * wifidog register模块: 用于生成wifidog.conf文件
 * wifidog smartwifi模块: 可对本进程进行启动或关闭
 * luci模块:读取ssid
-* nginx(可选):透明代理方式读取url
-* netiflter内核模块(可选)：内核模块方式读取url
+* nginx(nginx与netiflter 必选一项):透明代理方式读取url
+* netiflter内核模块(netiflter与nginx 必选一项)：内核模块方式读取url
 
 # 安装(采用透明代理方式模拟)：
 
@@ -23,6 +23,7 @@ AP设备以UDP向平台上报用户上网行为，包括URL，客户端mac，设
 
 ## openwrt编译Nginx并安装：
 * make package/nginx/compile V=99
+* opkg install libpcre_8.37-2_ar71xx.ipk
 * opkg install nginx.ipk
 
 
